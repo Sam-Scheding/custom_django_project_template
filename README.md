@@ -31,4 +31,4 @@ The template contains a number of prewritten apps to make starting a project qui
 
 To create a new Django project using this custom template, simply run:
 
-`$ django-admin startproject <project_name> --template=https://github.com/Sam-Scheding/custom_django_project_template/project_template`
+`$ django-admin startproject <project_name> --template=https://github.com/Sam-Scheding/custom_django_project_template/tree/master/project_template`
